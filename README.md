@@ -2,7 +2,7 @@
 
 # ESUSU FINANCIAL SAVINGS & RENT
 
-## Overview and Origin
+## *Overview and Origin*
 
 ### When was the company incorporated?
 >  Founded in 2016, Esusu is at the forefront of paving a permanent bridge to financial access by providing financial solutions for low-to-middle income consumers.
@@ -19,7 +19,7 @@
 >	Esusu operates a B2B business model where they partner with public and private sector housing providers to capture rental payment history and report it to the credit bureaus. The landlords are willing to pay for their services given the value they provide in reducing missed and late payments, serving as an attraction/retention tool, and specifically for public sector landlords support with regulatory compliance. 
 In August 2020, Esusu closed $2.3 million in seed extension bringing total capital raised to $4 million. Investors included Acumen Fund, Concrete Rose Capital, Global Good Fund, Impact America Fund, Next Play Ventures, and Zeal Capital Partners.
 
-## Business Activities:
+## *Business Activities*
 
 ### What specific financial problem is the company or project trying to solve?
 >	Less than 1% of rental payments are reported to the major credit bureaus despite constituting the largest single monthly expenditure for American consumers and acting as a strong predictor of an individual’s credit risk. Esusu’s rent reporting platform captures rental payment data and reports it into the credit bureaus, enabling tenants to build credit while helping property owners increase revenue, lower evictions, and fill vacancies. 
@@ -35,7 +35,7 @@ In August 2020, Esusu closed $2.3 million in seed extension bringing total capit
 > Esusu peer-to-peer savings app on iOS and Android. They use AWS Lambda/Kubernetes
 	
 
-## Landscape:
+## *Landscape*
 
 ### What domain of the financial industry is the company in?
 > Esusu would fall under Peer-to-Peer lending and payment processing.
@@ -52,7 +52,7 @@ In August 2020, Esusu closed $2.3 million in seed extension bringing total capit
 > Big players include Lending Club, Funding Circle and SoFi. OakNorth, one of Europe’s highest valued fintechs, is taking on the P2P segment focused on the "M" in the "SME" market and a third party data driven tech offering. The opportunities for retail and SME lending have not been lost on traditional players with new entrants such as Goldman Sachs Marcus offering loans and Amazon re-focusing on its next wave of business lending solutions.
 
 
-## Results
+## *Results*
 
 ### What has been the business impact of this company so far?
 >	Rent reporting has proved to not only lift credit scores but it helps landlords improve underwriting, reduce missed payments, and retain tenants longer. Esusu currently operates in more than 30 states and covers over 200,000 rental units in cities like New York, Atlanta, Los Angeles, Minneapolis, Houston and Portland. It plans to expand across all 50 states within the next year and projects $1 million in revenue by year-end.
@@ -64,7 +64,7 @@ In August 2020, Esusu closed $2.3 million in seed extension bringing total capit
 >	Competitors of Esusu include Cicil, Neon and Younited Credit. Esusu ranks about 4th to their competitors. 
 
 
-## Recommendations
+## *Recommendations*
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)...
 >	I would add a personal finance component to the apps. Similar to Intuit’s mint.com or every dollar, to allow people to connect their credit cards and pay down their debts. I would go further, and have it allow loan company to advertise like the app Credit Karma.
